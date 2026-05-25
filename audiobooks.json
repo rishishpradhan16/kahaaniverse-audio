@@ -14,5 +14,13 @@
     "duration": "10 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story2.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story2.mp3"
+  },
+  {
+    "id": "3",
+    "title": "बत्तीस",
+    "genre": "Horror",
+    "duration": "15 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story3.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story3.mp3"
   }
 ]
