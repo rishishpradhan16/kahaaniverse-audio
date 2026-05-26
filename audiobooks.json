@@ -22,5 +22,13 @@
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story3.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story3.mp3"
+  },
+  {
+    "id": "4",
+    "title": "दीवार",
+    "genre": "Horror",
+    "duration": "17 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story4.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story4.mp3"
   }
 ]
