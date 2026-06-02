@@ -30,5 +30,13 @@
     "duration": "17 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story4.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story4.mp3"
+  },
+  {
+    "id": "5",
+    "title": "आखिरी सफ़र",
+    "genre": "Horror",
+    "duration": "16 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story5.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story5.mp3"
   }
 ]
