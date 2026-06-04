@@ -38,5 +38,13 @@
     "duration": "16 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story5.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story5.mp3"
+  },
+  {
+    "id": "6",
+    "title": "श्वास",
+    "genre": "Philosophy / Self-Help",
+    "duration": "12 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story6.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3"
   }
 ]
