@@ -46,5 +46,13 @@
     "duration": "12 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story6.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3"
+  },
+  {
+    "id": "7",
+    "title": "TERE BINA — Season 1",
+    "genre": "Romance",
+    "duration": "12 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story7.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
   }
 ]
