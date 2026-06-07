@@ -41,6 +41,14 @@
   },
   {
     "id": "6",
+    "title": "किरायेदार",
+    "genre": "Horror",
+    "duration": "15 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story8.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story8.mp3"
+  },
+  {
+    "id": "7",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
@@ -48,7 +56,7 @@
     "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3"
   },
   {
-    "id": "7",
+    "id": "8",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
