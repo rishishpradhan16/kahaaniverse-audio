@@ -49,11 +49,11 @@
   },
   {
     "id": "7",
-    "title": "श्वास",
-    "genre": "Philosophy / Self-Help",
-    "duration": "12 min",
-    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story6.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3"
+    "title": "आग",
+    "genre": "Horror",
+    "duration": "15 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story9.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story9.mp3"
   },
   {
     "id": "8",
@@ -62,5 +62,13 @@
     "duration": "12 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story7.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
+  },
+  {
+    "id": "9",
+    "title": "श्वास",
+    "genre": "Philosophy / Self-Help",
+    "duration": "12 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story6.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3"
   }
 ]
