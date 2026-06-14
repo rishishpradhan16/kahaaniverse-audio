@@ -57,6 +57,14 @@
   },
   {
     "id": "8",
+    "title": "ऑपरेशन थिएटर",
+    "genre": "Horror",
+    "duration": "15 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story10.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story10.mp3"
+  },
+  {
+    "id": "9",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -64,7 +72,7 @@
     "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
   },
   {
-    "id": "9",
+    "id": "10",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
