@@ -65,6 +65,14 @@
   },
   {
     "id": "9",
+    "title": "निर्भय",
+    "genre": "Horror",
+    "duration": "15 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story11.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story11.mp3"
+  },
+  {
+    "id": "10",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -72,7 +80,7 @@
     "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
   },
   {
-    "id": "10",
+    "id": "11",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
