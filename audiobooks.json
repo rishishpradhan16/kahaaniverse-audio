@@ -121,6 +121,14 @@
   },
   {
     "id": "16",
+    "title": "Seat 34",
+    "genre": "Horror",
+    "duration": "13 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story18.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story18.mp3"
+  },
+  {
+    "id": "17",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -128,7 +136,7 @@
     "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
   },
   {
-    "id": "17",
+    "id": "18",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
