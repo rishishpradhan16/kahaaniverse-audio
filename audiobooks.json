@@ -121,7 +121,7 @@
   },
   {
     "id": "16",
-    "title": "Seat 34",
+    "title": "सीलबंद रील",
     "genre": "Horror",
     "duration": "13 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story18.jpg",
@@ -129,6 +129,14 @@
   },
   {
     "id": "17",
+    "title": "Seat 34",
+    "genre": "Horror",
+    "duration": "13 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story19.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story19.mp3"
+  },
+  {
+    "id": "18",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -136,7 +144,7 @@
     "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
   },
   {
-    "id": "18",
+    "id": "19",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
