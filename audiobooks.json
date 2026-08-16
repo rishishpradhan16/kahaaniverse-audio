@@ -5,7 +5,8 @@
     "genre": "Horror",
     "duration": "12 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story1.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story1.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story1.mp3",
+    "addedDate": "2026-05-12"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "genre": "Horror",
     "duration": "10 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story2.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story2.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story2.mp3",
+    "addedDate": "2026-05-20"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "genre": "Horror",
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story3.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story3.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story3.mp3",
+    "addedDate": "2026-05-28"
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "genre": "Horror",
     "duration": "17 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story4.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story4.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story4.mp3",
+    "addedDate": "2026-06-05"
   },
   {
     "id": "5",
@@ -37,7 +41,8 @@
     "genre": "Horror",
     "duration": "16 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story5.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story5.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story5.mp3",
+    "addedDate": "2026-06-12"
   },
   {
     "id": "6",
@@ -45,7 +50,8 @@
     "genre": "Horror",
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story8.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story8.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story8.mp3",
+    "addedDate": "2026-06-18"
   },
   {
     "id": "7",
@@ -53,7 +59,8 @@
     "genre": "Horror",
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story9.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story9.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story9.mp3",
+    "addedDate": "2026-06-24"
   },
   {
     "id": "8",
@@ -61,7 +68,8 @@
     "genre": "Horror",
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story10.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story10.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story10.mp3",
+    "addedDate": "2026-07-01"
   },
   {
     "id": "9",
@@ -69,7 +77,8 @@
     "genre": "Horror",
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story11.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story11.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story11.mp3",
+    "addedDate": "2026-07-08"
   },
   {
     "id": "10",
@@ -77,7 +86,8 @@
     "genre": "Horror",
     "duration": "20 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story12.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story12.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story12.mp3",
+    "addedDate": "2026-07-15"
   },
   {
     "id": "11",
@@ -85,7 +95,8 @@
     "genre": "Horror",
     "duration": "15 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story13.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story13.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story13.mp3",
+    "addedDate": "2026-07-20"
   },
   {
     "id": "12",
@@ -93,7 +104,8 @@
     "genre": "Horror",
     "duration": "10 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story14.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story14.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story14.mp3",
+    "addedDate": "2026-07-28"
   },
   {
     "id": "13",
@@ -101,7 +113,8 @@
     "genre": "Horror",
     "duration": "12 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story15.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story15.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story15.mp3",
+    "addedDate": "2026-08-04"
   },
   {
     "id": "14",
@@ -109,7 +122,8 @@
     "genre": "Horror",
     "duration": "14 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story16.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story16.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story16.mp3",
+    "addedDate": "2026-08-08"
   },
   {
     "id": "15",
@@ -117,7 +131,8 @@
     "genre": "Horror",
     "duration": "13 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story17.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story17.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story17.mp3",
+    "addedDate": "2026-08-10"
   },
   {
     "id": "16",
@@ -125,7 +140,8 @@
     "genre": "Horror",
     "duration": "13 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story18.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story18.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story18.mp3",
+    "addedDate": "2026-08-12"
   },
   {
     "id": "17",
@@ -133,7 +149,8 @@
     "genre": "Horror",
     "duration": "13 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story19.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story19.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story19.mp3",
+    "addedDate": "2026-08-14"
   },
   {
     "id": "18",
@@ -141,7 +158,8 @@
     "genre": "Romance",
     "duration": "12 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story7.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story7.mp3",
+    "addedDate": "2026-08-15"
   },
   {
     "id": "19",
@@ -149,6 +167,7 @@
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story6.jpg",
-    "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3"
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3",
+    "addedDate": "2026-08-16"
   }
 ]
