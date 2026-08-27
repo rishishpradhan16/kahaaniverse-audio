@@ -154,6 +154,15 @@
   },
   {
     "id": "18",
+    "title": "आखिरी रील",
+    "genre": "Horror",
+    "duration": "13 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story20.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story20.mp3",
+    "addedDate": "2026-08-27"
+  },
+  {
+    "id": "19",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -162,7 +171,7 @@
     "addedDate": "2026-08-15"
   },
   {
-    "id": "19",
+    "id": "20",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
