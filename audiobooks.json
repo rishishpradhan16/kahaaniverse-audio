@@ -181,6 +181,15 @@
   },
   {
     "id": "21",
+    "title": "परछाईं",
+    "genre": "Horror",
+    "duration": "12 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story23.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story23.mp3",
+    "addedDate": "2026-09-24"
+  },
+  {
+    "id": "22",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -189,7 +198,7 @@
     "addedDate": "2026-08-15"
   },
   {
-    "id": "22",
+    "id": "23",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
