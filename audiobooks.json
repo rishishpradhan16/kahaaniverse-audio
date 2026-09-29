@@ -214,5 +214,14 @@
     "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story6.jpg",
     "audioUrl": "https://kahaaniverse-audio.pages.dev/philosophy/story6.mp3",
     "addedDate": "2026-08-16"
+  },
+  {
+    "id": "25",
+    "title": "Monday Se Karunga",
+    "genre": "Podcast",
+    "duration": "5 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story25.jpeg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/podcast/story25.mp3",
+    "addedDate": "2026-09-29"
   }
 ]
