@@ -190,6 +190,15 @@
   },
   {
     "id": "22",
+    "title": "वापसी",
+    "genre": "Horror",
+    "duration": "15 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story26.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/horror/story26.mp3",
+    "addedDate": "2026-09-30"
+  },
+  {
+    "id": "23",
     "title": "TERE BINA — Season 1",
     "genre": "Romance",
     "duration": "12 min",
@@ -198,7 +207,7 @@
     "addedDate": "2026-08-15"
   },
   {
-    "id": "23",
+    "id": "24",
     "title": "TERE BINA — Season 2",
     "genre": "Romance",
     "duration": "12 min",
@@ -207,7 +216,7 @@
     "addedDate": "2026-09-26"
   },
   {
-    "id": "24",
+    "id": "25",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
@@ -216,7 +225,7 @@
     "addedDate": "2026-08-16"
   },
   {
-    "id": "25",
+    "id": "26",
     "title": "Monday Se Karunga",
     "genre": "Podcast",
     "duration": "5 min",
