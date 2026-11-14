@@ -236,6 +236,15 @@
   },
   {
     "id": "27",
+    "title": "ओ यारा... — Episode 2",
+    "genre": "Romance",
+    "duration": "17 min",
+    "coverUrl": "https://kahaaniverse-audio.pages.dev/covers/story30.jpg",
+    "audioUrl": "https://kahaaniverse-audio.pages.dev/romance/story30.mp3",
+    "addedDate": "2026-11-14"
+  },
+  {
+    "id": "28",
     "title": "श्वास",
     "genre": "Philosophy / Self-Help",
     "duration": "12 min",
@@ -244,7 +253,7 @@
     "addedDate": "2026-08-16"
   },
   {
-    "id": "28",
+    "id": "29",
     "title": "Monday Se Karunga",
     "genre": "Podcast",
     "duration": "5 min",
@@ -253,7 +262,7 @@
     "addedDate": "2026-09-29"
   },
   {
-    "id": "29",
+    "id": "30",
     "title": "The Journey Behind KahaaniVerse",
     "genre": "Podcast",
     "duration": "12 min",
